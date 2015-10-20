@@ -10,7 +10,6 @@ public class App
     {
     	System.out.println( "Hello Test!" );
     	System.out.println( "Hello CI!" );
-        System.out.println( "Hello SB!" );
     }
     
     public static void doNothing() {
